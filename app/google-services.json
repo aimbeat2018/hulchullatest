@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "499041639198",
+    "project_id": "hulchulandroid",
+    "storage_bucket": "hulchulandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499041639198:android:9b2a07323b4fad0e7fc70f",
+        "android_client_info": {
+          "package_name": "ott.hulchulandroid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj6F1X5WC-DivYR4O4jsZZHrBOQiefuSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
