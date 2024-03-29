@@ -19,16 +19,16 @@
 
 
     // admob
-    <string name="admob_application_id" translatable="false">ca-app-pub-1505000717930669~1972584266</string>
+    <string name="admob_application_id" translatable="false">ca-app-pub-1505000717930669~7707055815</string>
 
-    <string name="admob_banner_unit_id" translatable="false">ca-app-pub-1505000717930669/6689724322</string>
-    <string name="admob_openapp_unit_id" translatable="false">ca-app-pub-1505000717930669/7446033100</string>
+    <string name="admob_banner_unit_id" translatable="false">ca-app-pub-1505000717930669/6145211060</string>
+    <string name="admob_openapp_unit_id" translatable="false">ca-app-pub-1505000717930669/5994201666</string>
 
 
     <string name="admob_reward_unit_id" translatable="false">ca-app-pub-1505000717930669/4890142287</string>
     <string name="admob_native_unit_id" translatable="false">ca-app-pub-1505000717930669/1165647551</string> <!--test id-->
 
-    
+
 
    <!-- //admob
     <string name="admob_application_id" translatable="false">ca-app-pub-3940256099942544~3347511713</string>

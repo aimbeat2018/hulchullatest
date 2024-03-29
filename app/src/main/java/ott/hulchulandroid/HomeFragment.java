@@ -111,7 +111,6 @@ public class HomeFragment extends Fragment {
     final long PERIOD_MS = 7000;
     int currentPage = 0;
 
-
     private ShimmerFrameLayout shimmerFrameLayout;
     private RecyclerView recyclerViewMovie, recyclerViewTv, recyclerViewTvSeries, recyclerViewGenre, recyclerViewContinueWatching;
     private LinearLayout continueWatchingLayout;
@@ -202,9 +201,6 @@ public class HomeFragment extends Fragment {
         } catch (Exception e) {
             e.printStackTrace();
         }
-
-
-
 
         try {
 
